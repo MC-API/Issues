@@ -13,3 +13,10 @@ Issues can be [submitted](https://github.com/MC-API/Issues/issues/new) at the [i
 * Be clear, detailed and concise in your description
 * Provide screenshots or error logs if possible
 * Use [GitHub Flavored Markdown](http://github.github.com/github-flavored-markdown/) to make your issue look nicer :smile:
+
+## Issue Tags
+- ``backend`` - An issue related to databases, the server or other services of that nature.
+- ``java`` - Usually related to [uuid-java](https://github.com/mc-api/uuid-java)
+- ``php`` - Usually related to [uuid-php](https://github.com/mc-api/uuid-php)
+- ``website`` - Usually related to [website design or other static content](https://github.com/mc-api/static)
+**Other tags are self explanatory.**
