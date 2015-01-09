@@ -12,7 +12,7 @@ Issues can be [submitted](https://github.com/MC-API/Issues/issues/new) at the [i
 * Make sure your issue does not already exist
 * Be clear, detailed and concise in your description
 * Provide screenshots or error logs if possible
-* Use [GitHub Flavored Markdown](http://github.github.com/github-flavored-markdown/) to make your issue look nicer :smile:
+* Use [GitHub Flavored Markdown](http://help.github.com/github-flavored-markdown/) to make your issue look nicer :smile:
 
 ## Issue Tags
 - ``backend`` - An issue related to databases, the server or other services of that nature.
